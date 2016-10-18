@@ -2,3 +2,6 @@
 /Builds/
 /Library/metadata/
 /Library/ShaderCache/
+*.ogg
+*.wav
+*.meta
